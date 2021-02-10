@@ -7,6 +7,7 @@ const postSchema = Schema ({
     message: String,
     creator: String,
     tags: [ String ],
+    selectedFile: String,
     likeCount: {
         type: Number,
         default: 0,
