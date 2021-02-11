@@ -1,4 +1,4 @@
-![scrollList](./scrollList.png "scrollList")
+![scrollList](./wireframe.png "scrollList")
 
 
 # Technology used:
@@ -16,7 +16,10 @@ Scroll List is a simple application which allows users to:
 
 # Stretch Goals 
 
-Add Categories, enable offers, bring in paypal donate link.
+Add user authentication.
+Split message into contact, price  and info. 
+Add categories, enable offers. 
+Add paypal api.
 
 # MVP Pitch with scope
 
@@ -39,5 +42,7 @@ Add Categories, enable offers, bring in paypal donate link.
 # MileStones
 
     Implementing full stack MERN app, setting up Mongo database and use react on front end. 
+
+
 
     
